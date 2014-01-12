@@ -8,21 +8,21 @@ Over the past 3 years working as a web developer at A Shade Greener Ltd (2 as ju
 
 
 ## I Do Front-end
-I strive to write fast, clean, semantic HTLM5 backed up with CSS3 style enhancements which gracefully fall back to working solutions in older browsers. I write modular, structured BEM-style CSS compiled with Sass and Compass and have knowledge of CSS frameworks such as Foundation and Bootstrap.
+I strive to write fast, clean, semantic HTLM5 backed up with responsive CSS3 style enhancements which gracefully fall back to working solutions in older browsers. I write modular, structured BEM-style CSS compiled with Sass and Compass, and I have knowledge of CSS frameworks such as Foundation and Bootstrap.
 
-And what good is a fancy looking website without a little user interaction? I'm proficient at creating web components and widgets using low-impact, cross-browser and cross-device compatible JavaScript/jQuery.
+And what good is a fancy looking website without a little user interaction? I'm proficient at creating web components and widgets using low-impact, cross-browser and cross-device compatible JavaScript/jQuery. I also have plans for a personal project utilising the Angular javascript framework to create a single page application.
 
 ### Skills
 - HTML5
-- CSS3 (Sass)
-- Compass
-- Bourbon
-- Played around with CSS frameworks (Neat, Foundation) and structures (MVCSS)
-- JS/jQuery
+- CSS3
+- Sass & Compass
+- CSS Frameworks
+	- Foundation
+	- Neat
+- JavaScript/jQuery
 - AJAX
-- Dabbled with Backbone, Angular
-- Progressive enhancement
-- Cross/backwards compatibility
+- Responsive
+- Compatibility
 
 ---
 
@@ -36,9 +36,9 @@ I work with object-oriented PHP on a daily basis - both in standard format and u
 - MySQL
 - MVC
 - Frameworks
+	- Laravel
 	- Slim modified for MVC
 	- Some Kohana use
-	- Some Laravel knowledge
 - M/WAMP
 - Template Engines
 - SSH
@@ -46,35 +46,29 @@ I work with object-oriented PHP on a daily basis - both in standard format and u
 ---
 
 ## I Have Experience
-In the last few years I've worked on several websites and projects across the A Shade Greener family. In this time I've taken on a variety of [projects/tasks] and played a vital role at the company.
+In the last 3 years I've worked on several websites and projects across the A Shade Greener family. In this time I've taken on a variety of assignments and played a vital role at the company.
 
-I'm responsible for maintaining and updating  well as implementing new ideas from weekly marketing meetings
+I'm responsible for maintaining and updating all websites across the ASG family. I take part in weekly marketing meetings to contribute to upcoming marketing ideas, working with the Marketing Manager and Design Team to come up with ideas to increase customer applications.
 
-in doing this I need to collaborate with our junior dev. using git/bitbucket
+Working on a number of ongoing projects means teamwork and time management are essential. I work with our junior developer to assign tasks appropriately and ensure work is completed to deadlines, utilising Git for version control and Bitbucket for code collaboration.
 
-also learned to delegate tasks and manage time acsoss several simultaneos projects to ensure [stuff] is completed to deadline
-
-optimise my workflow using CodeKit (transitioning to Grunt/Gulp) etc.
-
-I've worked as part of a team, delegating tasks between myself and our junior developer to ensure time is managed [well] and that deadlines are met across several simultaneous projects.
-
-utilising version version control with Git for collaboration
-
-- Done a variety of work at ASG
-- Multiple sites
-- Combination of front and back
-- Time management/deadlines across multiple projects
-- Working within team to delegate taks
-- Version management and collaboration
-
-<br>
-
-For more detailed information on the work I've done, please visit [my website](http://rsellars.dev/work).
+For more detailed information on the work I've done, please visit [my website](http://rsellars.com/work).
 
 ---
 
 
 ## I'm a [Real Human Being](http://www.youtube.com/watch?v=-DSVDcw6iW8)
-^ change this to youtu.be. Also find a better quality one. Maybe go straight to the chorus?
+When I'm not coding I spend most of my time playing videos games, listening to music or trawling the internet for the latest tech news, science updates and stuff that's generally interesting to read or watch.
 
-I play video games, read about code, technology, psychology. TED talks are interesting.
+I have an unhealthy obsession with watches and I'm slowly building a record collection.
+
+---
+
+## I'm Here
+### Email
+[rsellars355@gmail.com](mailto:rsellars355@gmail.com)
+
+### Phone
+[07403622399](tel:07403622399)
+
+Thanks for your time. I can't wait to hear from you.
