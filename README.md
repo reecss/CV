@@ -8,7 +8,7 @@ Over the past 3 years working as a web developer at A Shade Greener Ltd (2 as ju
 
 
 ## I Do Front-end
-I strive to write fast, clean, semantic HTLM5 backed up with responsive CSS3 style enhancements which gracefully fall back to working solutions in older browsers. I write modular, structured BEM-style CSS compiled with Sass and Compass, and I have knowledge of CSS frameworks such as Foundation and Bootstrap.
+I strive to write fast, clean, semantic HTML5 backed up with responsive CSS3 style enhancements which gracefully fall back to working solutions in older browsers. I write modular, structured BEM-style CSS compiled with Sass and Compass, and I have knowledge of CSS frameworks such as Foundation and Bootstrap.
 
 And what good is a fancy looking website without a little user interaction? I'm proficient at creating web components and widgets using low-impact, cross-browser and cross-device compatible JavaScript/jQuery. I also have plans for a personal project utilising the Angular javascript framework to create a single page application.
 
