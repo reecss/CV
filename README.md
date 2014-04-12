@@ -52,9 +52,7 @@ I'm responsible for maintaining and updating all websites across the ASG family.
 
 Working on a number of ongoing projects means teamwork and time management are essential. I work with our junior developer to assign tasks appropriately and ensure work is completed to deadlines, utilising Git for version control and Bitbucket for code collaboration.
 
-For more detailed information on the work I've done, please visit [my website](http://rsellars.com/work)*.
-
-*Which will actually work soon.
+For more detailed information on the work I've done, please visit [my website](http://rsellars.com/work).
 
 ---
 
