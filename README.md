@@ -111,9 +111,11 @@ websites across the A Shade Greener family and played a vital role in the
 company.
 
 I was responsible for maintaining and updating all websites across the ASG
-family, taking part in weekly marketing meetings to contribute to upcoming
-marketing ideas, working with the Marketing Manager and Design Team to come up
-with ideas to increase customer applications.
+family, as well as taking part in weekly marketing meetings to contribute to
+upcoming marketing ideas. I worked with the Managing Director, Marketing
+Manager and Design Team to come up with ideas to increase customer
+applications, ultimately growing A Shade Greener into the UK's largest
+installer of free solar panels.
 
 In addition to creating new websites I was also responsible for maintaining the
 customer login & readings system and assisted in streamlining various other
