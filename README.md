@@ -152,3 +152,13 @@ record collection.
 [07403622399](tel:07403622399)
 
 Thanks for your time. I can't wait to hear from you.
+
+---
+
+## References
+
+### Stewart Davies, Managing Director of A Shade Greener Ltd.
+- Email: stewart@ashadegreener.co.uk
+- Mobile Phone available upon request
+
+Additional references are available upon request.
