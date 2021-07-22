@@ -56,7 +56,7 @@ to refactor.
 
 ## I Have Experience
 During my 10 years of development experience I've taught myself a plethora of
-skills and created a wide array of websites, including simple landing pages,
+skills and created a wide array of websites, including landing pages,
 informational websites, conversion-focused product microsites, custom CRMs and
 in-house reporting tools.
 
